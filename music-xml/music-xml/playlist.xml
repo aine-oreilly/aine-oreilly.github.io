@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="playlist.xsl"?>
+<playlist>
+  <track>
+    <title>Hyperballad</title>
+    <artist>Bjork</artist>
+    <album>Post</album>
+    <link>https://www.youtube.com/watch?v=kye1TOlAWWw</link>
+  </track>
+  <track>
+   <title>Perfectly</title>
+   <artist>FKA Twigs</artist>
+   <album>EUSEXUA</album>
+   <link>https://www.youtube.com/watch?v=KPpw_580QUU</link>
+   </track>
+   <track>
+    <title>The Complete Knock</title>
+    <artist>Blood Orange</artist>
+    <album>Coastal Grooves</album>
+    <link>https://www.youtube.com/watch?v=8WrEg0StHpc</link>
+    </track>
+   <track>
+    <title>Brittany Murphy</title>
+    <artist>Slayyyter</artist>
+    <album>Wor$t Girl in America</album>
+    <link>https://www.youtube.com/watch?v=0-nfnW9hl8o</link>
+    </track>
+   <track>
+    <title>STAY HERE 4 LIFE</title>
+    <artist>A$AP Rocky</artist>
+    <album>Don't Be Dumb</album>
+    <link>https://www.youtube.com/watch?v=yxKA0NnNJeo</link>
+    </track>
+   <track>
+    <title>You're Not the One</title>
+    <artist>Sky Ferreira</artist>
+    <album>Night Time, My Time</album>
+    <link>https://www.youtube.com/watch?v=IFCZP1Nz3Ds</link>
+    </track>
+</playlist>
