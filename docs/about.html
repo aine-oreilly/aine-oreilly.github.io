@@ -16,11 +16,11 @@
     background-color: var(--bs-primary) !important;
   }
 
-  .btn-primary {
-    background-color: var(--bs-primary);
-    border-color: var(--bs-primary);
-    color: black;
-  }
+ .btn-primary {
+  background-color: var(--bs-primary);
+  border-color: var(--bs-primary);
+  color: white;
+}
 body {
   background-color: #dff9fc;
 }
@@ -49,6 +49,10 @@ h1, h2 {
     display: block;
     margin: 0 auto;
   }
+  .about-image {
+  max-width: 400px;
+  border-radius: 15px;
+}
   </style>
 </head> 
 <body class="h-100 w-100 d-flex flex-column">
@@ -68,14 +72,26 @@ h1, h2 {
   <a class="nav-link active" href="about.html">About Me</a>
 </li>
         </ul>
-        <form role="search"> <input class="form-control" type="search" placeholder="Search" aria-label="Search"> </form>
       </div>
     </div>
   </nav>
  <main class="container flex-grow-1">
-  <h1 class="mt-4">About Me</h1>
-  <p>Hi! My name is Aine and I created Pop Culture Corner to share my thoughts on music and pop culture. I spend a lot of time listening to music, and more time than I probably should on the internet, so I thought it would be fun to create a space where I could document my thoughts on music and general pop culture. The albums I have chosen to review so far are all relatively new, and were all performed at Coachella this past month. I hope you enjoy your time in the cosy Pop Culture Corner!</p>
-</main>
+  <section class="row align-items-center py-5">
+
+    <div class="col-md-7">
+      <h1 class="mb-4">About Me</h1>
+
+  <p>Hi hi! My name is Aine and I created Pop Culture Corner to share my thoughts on music and pop culture. I spend a lot of time listening to music, and more time than I probably should on the internet, so I thought it would be fun to create a space where I could document my thoughts on music and general pop culture. The albums I have chosen to review so far are all relatively new, and were all performed at Coachella this past month.</p>
+
+    <p>Although this website is focused on music at the moment, I also adore other mediums that fall under the general pop culture umbrella. Recently, I finally got around to watching "I Love LA" after catching up on the most recent episode of Euphoria, of course. I knew Rachel Sennot was talented, but this tv show really blew me away and had me full-belly laughing on many occasions. </p>
+    <p>I would also inlcude fashion, particularly any "current trends" as part of pop culture, or at least a big part of the overall vision many artists and creatives have. Overall, I think pop culture's connection and genesis in fashion, music, television, and film makes it art in of itself. To what degree it is, or how successful it is remains up to personal taste, but I know I have a lot of fun immersing myself in it. I hope you enjoy your time in the cosy Pop Culture Corner!</p>
+    </div>
+    <div class="col-md-5 text-center">
+      <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2019/06/feature-5.jpg?w=1200&h=628&fit=crop"
+           class="img-fluid about-image"
+           alt="Photo of me">
+    </div>
+  </main>
   
   <footer class="mt-auto border-top">
     <div class="container d-flex flex-wrap justify-content-between align-items-center py-3">
